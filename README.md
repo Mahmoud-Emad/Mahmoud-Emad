@@ -11,7 +11,7 @@
 <!-- Center coding image -->
 <!-- Here i'll write script to uncommint YELLOW and commint WHITE every 12/h -->
 <p align="center" class="WHITE">
-  <img src="https://elecrock.com/wp-content/uploads/2021/12/python-for-kida.gif" />
+  <img style="width:850px" height="400px" src="https://user-images.githubusercontent.com/57001890/165163683-282ae7da-7e09-47ed-9d3f-4e7d948a4fa4.gif" />
 </p>
 
 <!-- <p align="center" class="YELLOW">

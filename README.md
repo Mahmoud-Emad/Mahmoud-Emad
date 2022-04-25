@@ -31,20 +31,11 @@
 
 ## 🔧 Technologies & Tools
 
-[<code style="
-  padding: 0.2em 0.4em;
-  margin: 7px;
-  font-size: 70%;
-  background-color: rgb(34 39 46);
-  border-radius: 50% !important;
-  box-shadow: 0px 1px 3px 0px #fff;
-  ">
-<img alt="Python" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png" style="
-  width: 60px;
-  background: #24303c;
-  border-radius: 50%;
-  margin-left: 7px;
- ">
+[<code style="margin: 5px;">
+<img alt="Python" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png" style="width: 60px">
+</code>](#)
+[<code >
+<img alt="Go-Lang" src="https://blog.2innovate.at/images/golang-gopher-square.png" style="width: 60px">
 </code>](#)
 <!-- [<code >
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">

@@ -31,8 +31,20 @@
 
 ## 🔧 Technologies & Tools
 
-[<code class="tag-code" >
-<img alt="Python" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png">
+[<code style="
+  padding: 0.2em 0.4em;
+  margin: 7px;
+  font-size: 70%;
+  background-color: rgb(34 39 46);
+  border-radius: 50% !important;
+  box-shadow: 0px 1px 3px 0px #fff;
+  ">
+<img alt="Python" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png" style="
+  width: 60px;
+  background: #24303c;
+  border-radius: 50%;
+  margin-left: 7px;
+ ">
 </code>](#)
 <!-- [<code >
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
@@ -48,19 +60,3 @@
 </code>](#) -->
 
 
-<style>
-  .tag-code : {
-    padding: 0.2em 0.4em;
-    margin: 7px;
-    font-size: 70%;
-    background-color: rgb(34 39 46);
-    border-radius: 50%;
-    box-shadow: 0px 1px 3px 0px #fff;
-  }
-  .tag-code .img :{
-    width: 60px;
-    background: #24303c;
-    border-radius: 50%;
-    margin-left: 7px;
-  }
-</style>

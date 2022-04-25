@@ -3,15 +3,17 @@
 <!--  -- Software Engineer -->
 
 <!-- Links -->
+
 [![Linkedin:Mahmoud](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)](https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)
 [![Facebook:Mahmoud](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)](https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)
 ![GitHub followers](https://img.shields.io/github/followers/Mahmoud-Emad?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mahmoud-Emad&color=brightgreen"> 
 
+
 <!-- Center coding image -->
 <!-- Here i'll write script to uncommint YELLOW and commint WHITE every 12/h -->
-<p align="center" class="WHITE">
-  <img style="width:850px" height="400px" src="https://user-images.githubusercontent.com/57001890/165163683-282ae7da-7e09-47ed-9d3f-4e7d948a4fa4.gif" />
+<p align="left" width="100%" class="WHITE">
+  <img style="width:100%" src="https://user-images.githubusercontent.com/57001890/165177903-0deda619-70a8-4c44-9e8f-ff22a93570ed.gif" />
 </p>
 
 <!-- <p align="center" class="YELLOW">

@@ -44,5 +44,20 @@
   <code >
   <img alt="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="width: 60px;margin-left: 7px;">
   </code>&nbsp;
+  <!-- django-rest-framework -->
+  <code >
+  <img alt="django-rest-framework" src="https://miro.medium.com/max/700/1*_6oZAheCwiQiKHAHeJDK5w.png" style="width: 60px;margin-left: 7px;">
+  </code>&nbsp;
+  <!-- MySql -->
+  <code >
+  <img alt="MySql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="width: 60px;margin-left: 7px;">
+  </code>&nbsp;
+  <!-- Redis -->
+  <code >
+  <img alt="Redis" src="https://user-images.githubusercontent.com/57001890/165119694-873b9935-25c4-4c5c-869b-1844de2438f0.png" style="width: 80px;margin-left: 7px;">
+  </code>&nbsp;
 </div>
+
+
+
 

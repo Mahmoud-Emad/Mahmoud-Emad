@@ -31,6 +31,7 @@
 
 ## 🔧 Technologies & Tools
 
+![159-1595848_python-logo-png-transparent-background-python-logo-png-removebg-preview](https://user-images.githubusercontent.com/57001890/165121689-0a171451-308b-43a3-a4a0-cf6fdc4fcc27.png)
 <div width="100%">
   <!-- Python -->
   <code>

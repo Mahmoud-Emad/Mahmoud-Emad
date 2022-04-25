@@ -31,23 +31,18 @@
 
 ## 🔧 Technologies & Tools
 
-[<code style="margin: 5px;">
-<img alt="Python" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png" style="width: 60px">
-</code>](#)
-[<code >
-<img alt="Go-Lang" src="https://blog.2innovate.at/images/golang-gopher-square.png" style="width: 60px">
-</code>](#)
-<!-- [<code >
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/mysql.png">
-</code>](#)
-[<code >
-<img alt="Django" width="26px" src="https://cdn.freebiesupply.com/logos/thumbs/2x/django-community-logo.png">
-</code>](#)
-[<code >
-<img alt="C++" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/cpp.png" />
-</code>](#)
-[<code >
-<img alt="Pycharm" width="26px" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/pycharm.png" />
-</code>](#) -->
-
+<div width="100%">
+  <!-- Python -->
+  <code>
+  <img alt="Python" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png" style="width: 60px;margin-left: 7px;">
+  </code>&nbsp;
+  <!-- Go-Lang -->
+  <code >
+  <img alt="Go-Lang" src="https://blog.2innovate.at/images/golang-gopher-square.png" style="width: 60px;margin-left: 7px;">
+  </code>&nbsp;
+  <!-- Django -->
+  <code >
+  <img alt="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="width: 60px;margin-left: 7px;">
+  </code>&nbsp;
+</div>
 

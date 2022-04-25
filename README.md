@@ -3,8 +3,8 @@
 <!--  -- Software Engineer -->
 
 <!-- Links -->
-[![Linkedin:Yassin](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)](https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)
-[![Facebook:Yassin](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)](https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)
+[![Linkedin:Mahmoud](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)](https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)
+[![Facebook:Mahmoud](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)](https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)
 ![GitHub followers](https://img.shields.io/github/followers/Mahmoud-Emad?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mahmoud-Emad&color=brightgreen"> 
 
@@ -30,39 +30,34 @@
 - ⚡ &nbsp;You can shoot me an [email](mahmmoud.hassanein@gmail.com)! I'll try to respond as soon as I can
 
 ## 🔧 Technologies & Tools
-
-![159-1595848_python-logo-png-transparent-background-python-logo-png-removebg-preview](https://user-images.githubusercontent.com/57001890/165121689-0a171451-308b-43a3-a4a0-cf6fdc4fcc27.png)
 <div width="100%">
   <!-- Python -->
-  <code>
-  <img alt="Python" src="https://user-images.githubusercontent.com/57001890/165120964-4554554f-e8ed-43aa-8d76-96e90fbf03e3.png" style="width: 60px;    background-color: transparent !important;">
-  </code>&nbsp;
+  <img alt="Python" src="https://user-images.githubusercontent.com/57001890/165155770-40654f40-56e8-40ec-8f34-c3bf9b4d64fb.svg" style="width: 60px;">
   <!-- Go-Lang -->
-  <code >
-  <img alt="Go-Lang" src="https://blog.2innovate.at/images/golang-gopher-square.png" style="width: 60px">
-  </code>&nbsp;
+  <img alt="Go-Lang" src="https://user-images.githubusercontent.com/57001890/165156702-b066efea-8263-4e7d-b834-1e00135f038f.png" style="width: 60px">
   <!-- Django -->
-  <code >
-  <img alt="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="width: 60px">
-  </code>&nbsp;
+  <img alt="Django" src="https://user-images.githubusercontent.com/57001890/165156791-3b32ead9-ee90-45c8-8efc-7e87f67bddf7.png" style="width: 65px">
+  <!-- fastAPI -->
+  <img alt="fastAPI" src="https://user-images.githubusercontent.com/57001890/165155154-a79f4255-4f91-4521-b5ea-19720acbb7ed.svg" style="width: 58px">
   <!-- django-rest-framework -->
-  <code >
-  <img alt="django-rest-framework" src="https://miro.medium.com/max/700/1*_6oZAheCwiQiKHAHeJDK5w.png" style="width: 60px">
-  </code>&nbsp;
+  <img alt="django-rest-framework" src="https://user-images.githubusercontent.com/57001890/165153455-a7c4e407-28fc-415c-ad33-3af733cee0fa.png" style="width: 68px">
   <!-- MySql -->
-  <code >
-  <img alt="MySql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="width: 60px">
-  </code>&nbsp;
+  <img alt="MySql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="width: 60px">&nbsp;
   <!-- Redis -->
-  <code >
-  <img alt="Redis" src="https://user-images.githubusercontent.com/57001890/165119694-873b9935-25c4-4c5c-869b-1844de2438f0.png" style="width: 80px">
-  </code>&nbsp;
+  <img alt="Redis" src="https://user-images.githubusercontent.com/57001890/165156996-d1b2a2b4-0f63-4821-8b45-2ee6ea1681f3.png" style="width: 60px">
   <!-- Docker -->
-  <code >
   <img alt="Docker" src="https://user-images.githubusercontent.com/57001890/165120520-c016bccc-d1f6-4028-975a-5c676a11b2dd.png" style="width: 60px">
-  </code>&nbsp;
+  <!-- Docker -->
+  <img alt="kubernetes" src="https://user-images.githubusercontent.com/57001890/165157233-eda52fa1-c30c-4450-ab62-4069ed1799ef.png" style="width: 65px">
+  <!-- Git -->
+  <img alt="Git" src="https://user-images.githubusercontent.com/57001890/165154451-fe8c03e7-ac80-4879-bbaa-2d168b285468.png" style="width: 63px">
+  <!-- Firebase -->
+  <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="width: 60px">
 </div>
 
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Emad&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mahmoud-Emad" /></p>
+<p align="right"><img width="38%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Emad&layout=compact&theme=radical&hide_border=true" alt="Mahmoud-Emad" /></p>
 
 

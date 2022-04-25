@@ -34,27 +34,31 @@
 <div width="100%">
   <!-- Python -->
   <code>
-  <img alt="Python" src="https://raw.githubusercontent.com/SamirPaulb/assets/main/python.png" style="width: 60px;margin-left: 7px;">
+  <img alt="Python" src="https://user-images.githubusercontent.com/57001890/165120964-4554554f-e8ed-43aa-8d76-96e90fbf03e3.png" style="width: 60px;    background-color: transparent !important;">
   </code>&nbsp;
   <!-- Go-Lang -->
   <code >
-  <img alt="Go-Lang" src="https://blog.2innovate.at/images/golang-gopher-square.png" style="width: 60px;margin-left: 7px;">
+  <img alt="Go-Lang" src="https://blog.2innovate.at/images/golang-gopher-square.png" style="width: 60px">
   </code>&nbsp;
   <!-- Django -->
   <code >
-  <img alt="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="width: 60px;margin-left: 7px;">
+  <img alt="Django" src="https://icon-library.com/images/django-icon/django-icon-0.jpg" style="width: 60px">
   </code>&nbsp;
   <!-- django-rest-framework -->
   <code >
-  <img alt="django-rest-framework" src="https://miro.medium.com/max/700/1*_6oZAheCwiQiKHAHeJDK5w.png" style="width: 60px;margin-left: 7px;">
+  <img alt="django-rest-framework" src="https://miro.medium.com/max/700/1*_6oZAheCwiQiKHAHeJDK5w.png" style="width: 60px">
   </code>&nbsp;
   <!-- MySql -->
   <code >
-  <img alt="MySql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="width: 60px;margin-left: 7px;">
+  <img alt="MySql" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" style="width: 60px">
   </code>&nbsp;
   <!-- Redis -->
   <code >
-  <img alt="Redis" src="https://user-images.githubusercontent.com/57001890/165119694-873b9935-25c4-4c5c-869b-1844de2438f0.png" style="width: 80px;margin-left: 7px;">
+  <img alt="Redis" src="https://user-images.githubusercontent.com/57001890/165119694-873b9935-25c4-4c5c-869b-1844de2438f0.png" style="width: 80px">
+  </code>&nbsp;
+  <!-- Docker -->
+  <code >
+  <img alt="Docker" src="https://user-images.githubusercontent.com/57001890/165120520-c016bccc-d1f6-4028-975a-5c676a11b2dd.png" style="width: 60px">
   </code>&nbsp;
 </div>
 

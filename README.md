@@ -22,7 +22,7 @@
 
 ## I'm a Software Engineer ⚡⚡
 
-<img alt="Night Coding" src="https://images.squarespace-cdn.com/content/v1/5ca50a787046800d93efeaa5/1559957185322-XOW8D00GTHARX40LKPI4/image-asset.gif" align="right" style="width:15%;"/>
+<!-- <img alt="Night Coding" src="https://images.squarespace-cdn.com/content/v1/5ca50a787046800d93efeaa5/1559957185322-XOW8D00GTHARX40LKPI4/image-asset.gif" align="right" style="width:50PX;"/> -->
 
 - ⚡ I’m currently learning everything 🤣
 - ⚡ I’m looking to collaborate with other content creators

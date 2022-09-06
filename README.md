@@ -1,4 +1,3 @@
-###### ⚡⚡ Thunder ⚡⚡
 ### Hi 👋, I'm Mahmoud Emad
 <!--  -- Software Engineer -->
 
@@ -12,10 +11,10 @@
 
 <!-- Center coding image -->
 <!-- Here i'll write script to uncommint YELLOW and commint WHITE every 12/h -->
-<p align="left" width="100%" class="WHITE">
+<!--<p align="left" width="100%" class="WHITE">
   <img style="width:100%" src="https://user-images.githubusercontent.com/57001890/165177903-0deda619-70a8-4c44-9e8f-ff22a93570ed.gif" />
 </p>
-
+ -->
 <!-- <p align="center" class="YELLOW">
   <img src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" />
 </p> -->

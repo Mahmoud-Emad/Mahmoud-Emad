@@ -1,13 +1,5 @@
-### Hi 👋, I'm Mahmoud Emad
-<!--  -- Software Engineer -->
-
-<!-- Links -->
-
-[![Linkedin:Mahmoud](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)](https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)
-[![Facebook:Mahmoud](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)](https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)
-![GitHub followers](https://img.shields.io/github/followers/Mahmoud-Emad?label=Follow&style=social)
-<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mahmoud-Emad&color=brightgreen"> 
-
+### Hi 👋, I'm Mahmoud Emad and i'm a Software Engineer.
+##### Young and dynamic Software Engineer able to work in a multicultural environment with the fast ability to learn and expand knowledge & experience to contribute to the overall success of any organization.
 
 <!-- Center coding image -->
 <!-- Here i'll write script to uncommint YELLOW and commint WHITE every 12/h -->
@@ -18,17 +10,20 @@
 <!-- <p align="center" class="YELLOW">
   <img src="https://i.pinimg.com/originals/91/6b/1c/916b1c0b9788ad87b9ccdfc71bbdadf3.gif" />
 </p> -->
-
-## I'm a Software Engineer ⚡⚡
-
 <!-- <img alt="Night Coding" src="https://images.squarespace-cdn.com/content/v1/5ca50a787046800d93efeaa5/1559957185322-XOW8D00GTHARX40LKPI4/image-asset.gif" align="right" style="width:50PX;"/> -->
 
-- ⚡ I’m currently learning everything 🤣
-- ⚡ I’m looking to collaborate with other content creators
-- ⚡ 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play games
-- ⚡ If you can code you'll survive -- I'll survive
+- ⚡ I’m currently learning everything.
+- ⚡ I’m looking to collaborate with other content creators.
+- ⚡ 2022 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to play games.
+- ⚡ If you can code you'll survive, so i'll survive.
 - ⚡ &nbsp;You can shoot me an [email](mahmmoud.hassanein@gmail.com)! I'll try to respond as soon as I can
+- ⚡ Connect with me 🤝
+
+[![Linkedin:Mahmoud](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)](https://www.linkedin.com/in/mahmoud-emad-4aa53717a/)
+[![Facebook:Mahmoud](https://img.shields.io/badge/-Mahmoud-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)](https://www.facebook.com/people/Mahmoud-Emad/100010994918334/)
+![GitHub followers](https://img.shields.io/github/followers/Mahmoud-Emad?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=Mahmoud-Emad&color=brightgreen"> 
 
 ## 🔧 Technologies & Tools
 <div width="100%">
@@ -56,11 +51,16 @@
   <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="width: 60px">
 </div>
 
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg) -->
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Emad&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mahmoud-Emad" /></p>
-<p align="right"><img width="38%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Emad&layout=compact&theme=radical&hide_border=true" alt="Mahmoud-Emad" /></p>&nbsp;
+<br>
+
+## <img alt="github" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="width: 40px">GitHub report
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Emad&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mahmoud-Emad" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Emad&layout=compact&theme=radical&hide_border=true" alt="Mahmoud-Emad" />
  <!-- 
 <a  align="center"  href="https://www.buymeacoffee.com/thunderXIII" target="_blank"><img align="center"  src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
  -->

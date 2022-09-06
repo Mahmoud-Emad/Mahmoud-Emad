@@ -60,7 +60,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Emad&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mahmoud-Emad" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Emad&layout=compact&theme=radical&hide_border=true" alt="Mahmoud-Emad" />
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Emad&layout=compact&theme=radical&hide_border=true" alt="Mahmoud-Emad" />
  <!-- 
 <a  align="center"  href="https://www.buymeacoffee.com/thunderXIII" target="_blank"><img align="center"  src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
  -->

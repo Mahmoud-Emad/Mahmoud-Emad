@@ -58,7 +58,7 @@
 
 ## <img alt="github" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="width: 40px">GitHub report
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Emad&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mahmoud-Emad" />
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=Mahmoud-Emad&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mahmoud-Emad" />
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud-Emad&layout=compact&theme=radical&hide_border=true" alt="Mahmoud-Emad" />
  <!-- 

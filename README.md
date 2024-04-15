@@ -15,7 +15,7 @@
 - ⚡ I’m currently learning everything.
 - ⚡ I’m looking to collaborate with other content creators.
 - ⚡ 2024 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to play games.
+- ⚡ Fun fact: I love to play games,I love to code with Python.
 - ⚡ If you can code you'll survive, so i'll survive.
 - ⚡ &nbsp;You can shoot me an [email](mahmmoud.hassanein@gmail.com)! I'll try to respond as soon as I can
 - ⚡ Connect with me 🤝
@@ -52,7 +52,7 @@
 
 <!-- ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg) -->
 
-
+ <!-- 
 <br>
 
 ## <img alt="github" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" style="width: 40px">GitHub report

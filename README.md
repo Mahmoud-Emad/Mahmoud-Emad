@@ -15,8 +15,8 @@
 - ⚡ I’m currently learning everything.
 - ⚡ I’m looking to collaborate with other content creators.
 - ⚡ 2024 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to play games,I love to code with Python.
-- ⚡ If you can code you'll survive, so i'll survive.
+- ⚡ Fun fact: I love to play games, and I love to code with Python and Go.
+- ⚡ If you can code you'll survive, so I'll survive.
 - ⚡ &nbsp;You can shoot me an [email](mahmmoud.hassanein@gmail.com)! I'll try to respond as soon as I can
 - ⚡ Connect with me 🤝
 
